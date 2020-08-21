@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css?family=Muli&display=swap');
+body{
+    font-family: 'Muli', sans-serif !important;
+}
+#properties{
+    font-family: 'Quicksand', sans-serif !important;
+    text-align: center;
+    padding-top: 2px;
+    font-size: 32px;
+    font-weight: 700;
+    letter-spacing: -.07em !important;
+}
+.cardEdit{
+    width:400px ;
+    height:250px ;
+    margin-right: 10;
+    /* padding-right: 65px; */
+
+
+}
+
+.card-img{
+    
+    width:384px !important;
+    height:250px !important;
+    float: right !important;
+    position:absolute !important;
+    
+}
